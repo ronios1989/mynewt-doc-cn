@@ -1,2 +1,2 @@
 # mynewt-doc-cn
-Mynewt文档，中文翻译版
+Mynewt OS，中文版文档
