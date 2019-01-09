@@ -10,7 +10,9 @@ BLE协议可以分为蓝牙应用和蓝牙核心两个部分，蓝牙核心又�
 
 BLE主机与BLE控制器之间的接口就是HCI（Host Controller Interface），可基于Uart、USB等物理介质，不影响蓝牙协议的理解。
 
-![ble_stack](http://www.wowotech.net/content/uploadfile/201603/572c1f6e9ab5a5855251ac38ca3890be20160319143211.gif)
+![blestack](..\images\ble_stack.gif)
+
+
 
 ## 0.1 物理层（Physical Layer）
 
@@ -53,8 +55,6 @@ C-->A
 E-->D
 B-->D
 ```
-
-
 
 ## 0.3 L2CAP协议
 
